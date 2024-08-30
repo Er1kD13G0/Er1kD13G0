@@ -1,4 +1,4 @@
-<img width = 100% bottom = 50px src = "https://github.com/Er1kD13G0/Er1kD13G0/assets/124258849/605444ca-2dce-428b-a170-21484f6bc469"/>
+<img width = 100% bottom = 50px src = "https://github.com/user-attachments/assets/6f30467d-7f3a-47c5-a46d-ef5c3db21c27"/>
 <br>
 <br>
 <br>
