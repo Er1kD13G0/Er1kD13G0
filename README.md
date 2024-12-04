@@ -1,9 +1,9 @@
-<img width = 100% bottom = 50px src = "https://github.com/user-attachments/assets/6f30467d-7f3a-47c5-a46d-ef5c3db21c27"/>
+![github-header-image](https://github.com/user-attachments/assets/7b3e4a14-8d2b-41b3-9c6c-e8c50ea130cb)
 <br>
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello+my+name+is+%C3%89rik;I'm+from+Brasil;I+am+currently+a+Student;I+like+Cybersecurity+and+Back-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+%C3%89rik;Sou+Brasileiro;Sou+entusiasta+de+CyberSecurity;Estudando+para+Per%C3%ADcia+Digital+%3E3)](https://git.io/typing-svg)
 
 <br> 
 <br>
