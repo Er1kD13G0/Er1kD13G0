@@ -35,7 +35,7 @@
 <div align = "left"> 
   
 <img align = "left" height = "80" width = "80" src = "https://github.com/Er1kD13G0/Er1kD13G0/assets/124258849/f4d530e2-5335-4993-a394-d237ce8dfc6b">
-<img align = "left" height = "80" width = "80" src = "https://github.com/Er1kD13G0/Er1kD13G0/assets/124258849/edb5001e-0ce1-4fb5-9f68-178d569d3cc1">
+
 
 </div>
 
@@ -50,7 +50,7 @@
 <h2 align = "left"> Currently Learning:  </h2>
 <div align = "left">
   
-<img align = "left" height = "80" width = "80" src = "https://github.com/Er1kD13G0/Er1kD13G0/assets/124258849/eb83c3bb-3487-44f6-bf2b-24c19c78f242">
+<img align = "left" height = "80" width = "80" src = "https://github.com/user-attachments/assets/419214bd-3202-404c-b62f-2c8ef0aaad68">
 <img align = "left" height = "80" width = "80" src = "https://github.com/Er1kD13G0/Er1kD13G0/assets/124258849/47ca6a34-4806-4bc5-a783-4d39c691cae7">
 </div>
 
