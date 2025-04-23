@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu me chamo Érik, sou do Brasil🇧🇷<br><br>- 🔭 Estou trabalhando em meus projetos pessoais, em busca do meu primeiro emprego.<br>- 📚 Estou aprendendo Rust.<br>- ⚡ Gosto de Cybersegurança e Lingaugem de Baixo Nível.</p>
+<p align="left">Eu me chamo Érik, sou do Brasil🇧🇷<br><br>- 🔭 Estou trabalhando em meus projetos pessoais, em busca do meu primeiro emprego.<br>- 📚 Estou aprendendo Rust.<br>- ⚡ Gosto de Cybersegurança e Linguagem de Baixo Nível.</p>
 
 ###
 
