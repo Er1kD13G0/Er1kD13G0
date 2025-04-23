@@ -1,91 +1,54 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+profile!+%3A3)](https://git.io/typing-svg)
-# 🎃 Érik Diego
+<div align="center">
+  <img height="150" src="https://64.media.tumblr.com/cee828715884ddd14a1c3ae4f779dbd3/49cc4a7294abac1c-52/s400x600/9bcd3ad436ff0db33600ae5bc3df7ac0771e0af6.png"  />
+</div>
 
-**`Red Team and Back-end Developer`**
+###
 
-Me chamo Érik Diego, tenho 19 anos e sou de Campinas. Concluí o ensino médio no SENAI Zerbini, com o curso técnico em ADS(Análise e Desenvolvimento de Sistemas). Atualmente, estou em busca do meu primeiro emprego na aréa . Sou apaixonado por tecnologia principalmente na parte de segurança da informação.
+<div align="center">
+  <a href="https://www.linkedin.com/in/%C3%A9rik-bonache/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p align="left">
-    <a href="https://github.com/Er1kD13G0?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Er1kD13G0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Er1kD13G0?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Er1kD13G0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Er1kD13G0.Er1kD13G0&"  />
+</div>
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
- align="left" 
-    alt="Rust" 
-    title="Rust"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/a81f488f-662d-434c-9af2-1fdda6555188" 
-  />        
+<h1 align="center">Bem vindo ao meu perfil! 👋</h1>
 
-<br/>
-<br/>
+###
 
-### 📊 Estatísticas
+<h3 align="left">👩‍💻 Sobre Mim | About Me</h3>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Er1kD13G0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+###
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er1kD13G0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="left">Eu me chamo Érik, sou do Brasil🇧🇷<br><br>- 🔭 Estou trabalhando em meus projetos pessoais, em busca do meu primeiro emprego.<br>- 📚 Estou aprendendo Rust.<br>- ⚡ Gosto de Cybersegurança e Lingaugem de Baixo Nível.</p>
 
-</p>
+###
+
+<h3 align="left">🛠 Languagens e Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Er1kD13G0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Er1kD13G0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
