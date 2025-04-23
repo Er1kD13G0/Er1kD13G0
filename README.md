@@ -12,13 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Er1kD13G0.Er1kD13G0&"  />
-</div>
-
-###
-
-<h1 align="center">Bem vindo ao meu perfil! 👋</h1>
+<h1 align="center">Bem vindo ao meu perfil! | <br>Welcome to my profile!👋</h1>
 
 ###
 
@@ -26,11 +20,11 @@
 
 ###
 
-<p align="left">Eu me chamo Érik, sou do Brasil🇧🇷<br><br>- 🔭 Estou trabalhando em meus projetos pessoais, em busca do meu primeiro emprego.<br>- 📚 Estou aprendendo Rust.<br>- ⚡ Gosto de Cybersegurança e Linguagem de Baixo Nível.</p>
+<p align="left">Eu me chamo Érik, sou do Brasil🇧🇷<br><br>- 🔭 Estou trabalhando em meus projetos pessoais, em busca do meu primeiro emprego.<br>- 📚 Estou aprendendo Rust.<br>- ⚡ Gosto de Cybersegurança e Linguagem de Baixo Nível.<br><br><br>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀<br><br><br>My name is Érik, I'm from Brazil🇧🇷<br><br>- 🔭 I'm working on my personal projects, looking for my first job.<br>- 📚 I'm learning Rust.<br>- ⚡ I like Cybersecurity and Low-Level Languages.</p>
 
 ###
 
-<h3 align="left">🛠 Languagens e Ferramentas</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas | Languages ​​and tools</h3>
 
 ###
 
@@ -42,6 +36,12 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nixos/5277C3" height="40" alt="nixos logo"  />
 </div>
 
 ###
@@ -49,6 +49,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Er1kD13G0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Er1kD13G0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Er1kD13G0.Er1kD13G0&"  />
 </div>
 
 ###
