@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Eu me chamo Érik, sou do Brasil🇧🇷<br><br>- 🔭 Estou trabalhando em meus projetos pessoais, atualmente trabalho na Multi360.<br>- 📚 Estou aprendendo Rust.<br>- ⚡ Gosto de Cybersegurança e Linguagem de Baixo Nível.<br><br><br>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀<br><br><br>My name is Érik, I'm from Brazil🇧🇷<br><br>- 🔭 I'm working on my personal projects, currently I'm work in Multi360.<br>- 📚 I'm learning Rust.<br>- ⚡ I like Cybersecurity and Low-Level Languages.</p>
+<p align="left">Eu me chamo Érik, sou do Brasil🇧🇷<br><br>- 🔭 Estou trabalhando em meus projetos pessoais, atualmente estou em busca da primeira oportunidade em Cybersecurity.<br>- 📚 Estou aprendendo Rust.<br>- ⚡ Gosto de Cybersegurança e Linguagem de Baixo Nível.<br><br><br>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀<br><br><br>My name is Érik, I'm from Brazil🇧🇷<br><br>- 🔭 I'm working on my personal projects, currently seeking my first opportunity in Cybersecurity..<br>- 📚 I'm learning Rust.<br>- ⚡ I like Cybersecurity and Low-Level Languages.</p>
 
 ###
 
